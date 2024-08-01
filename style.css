@@ -59,7 +59,7 @@ img {
 
 .main_text {
 	width: 100%;
-	letter-spacing: -1px;
+	#letter-spacing: -1px;
     color: #212C43;
     font-weight: bold;
     font-size: 28px;
